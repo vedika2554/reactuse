@@ -1,0 +1,10 @@
+.color{
+    background-color: black;
+    color: white;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    padding: 5px;
+}

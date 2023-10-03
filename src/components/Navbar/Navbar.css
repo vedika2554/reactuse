@@ -1,0 +1,17 @@
+.nav{
+    display: flex;
+    background-color: black;
+    color: white;
+}
+.nav-m{
+    font-size: 25px;
+    margin-top: 28px;
+    margin-right: 40px;
+   color: white;
+    text-decoration: none;
+}
+.logo{
+    margin-left: 15px;
+    font-size: 30px;
+    margin-right: 300px;
+}
